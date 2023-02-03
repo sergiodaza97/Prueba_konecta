@@ -1,0 +1,1 @@
+SELECT MAX(stock) max_stock, name FROM stocktaking;
